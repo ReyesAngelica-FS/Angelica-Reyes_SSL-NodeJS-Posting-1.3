@@ -1,2 +1,5 @@
 # Angelica-Reyes_SSL-NodeJS-Posting-1.3
-This code assessment
+Code assessment
+
+## Week 1
+Code assessment 1.3 
